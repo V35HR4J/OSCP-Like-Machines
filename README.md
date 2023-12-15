@@ -9,3 +9,4 @@ I will try to push atleast 2 solutions per day.
 |------|----|------------|----|
 | [Lame](Lame.md)| Linux | Easy | Done ✅ |
 | [Shocker](Shocker.md)| Linux | Easy | Done ✅ |
+| [Busqueda](Busqueda.md)| Linux | Easy | Done ✅ |

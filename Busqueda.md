@@ -58,7 +58,6 @@ svc
 
 ## Privilege Escalation:
 
-```bash
 We can find git config file in /var/www/app/.git/config
 
 ```bash
