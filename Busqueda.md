@@ -206,6 +206,6 @@ bash-5.1# cat /root/root.txt
 a1e86be8967140570dddb993eec3b801
 ```
 
-Takeaway:
+# Takeaway:
 - Developers are lazy, they reuse the passwords.
 - Always check for the version of the software, and check for any exploits.

@@ -1,5 +1,5 @@
-# OSCP-Like-Machines
-Writeup/Solution for some OSCP Like machines
+# OSCP Like Machines
+Writeup/Solution for some OSCP Like machines.
 
 I will try to push atleast 2 solutions per day.
 
