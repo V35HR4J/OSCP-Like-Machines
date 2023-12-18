@@ -14,7 +14,7 @@ PORT     STATE    SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 17.83 seconds
 ```
 
-There's some hint for us on `/robots.txt``:
+There's some hint for us on `/robots.txt`:
 
 ```
 User-agent: *
@@ -57,7 +57,7 @@ spammer                 [Status: 200, Size: 179, Words: 3, Lines: 2]
 spammer.zip             [Status: 200, Size: 179, Words: 3, Lines: 2]
 ```
 
-After downloading the spammer.zip file, it is password protected, we can use `fcrackzip` to bruteforce the password:
+After downloading the spammer.zip file, it is password protected, we can use `zip2john` to bruteforce the password:
 
 ```bash
 ┌──(parallels㉿V35HR4J)-[~/tjnull/DriftingBlues6]
@@ -79,7 +79,6 @@ myspace4         (spammer.zip/creds.txt)
 1g 0:00:00:00 DONE (2023-12-18 17:29) 100.0g/s 2457Kp/s 2457Kc/s 2457KC/s christal..280789
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed. 
-
 ```
 
 We got the password myspace4, now we can unzip the file and get the creds.txt file:
