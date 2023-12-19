@@ -12,3 +12,5 @@ I will try to push atleast 2 solutions per day.
 | [Busqueda](Busqueda.md)| Linux | Easy | Done ✅ |
 | [Election1](Election1.md)| Linux | Intermediate | Done ✅ |
 | [DriftingBlues6](DriftingBlues6.md)| Linux | Easy | Done ✅ |
+| [Blogger](Blogger.md)| Linux | Easy | On progress|
+| [Bashed](Bashed.md)| Linux | Easy | Done ✅ |
