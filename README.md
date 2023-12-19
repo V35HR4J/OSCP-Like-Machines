@@ -14,3 +14,4 @@ I will try to push atleast 2 solutions per day.
 | [DriftingBlues6](DriftingBlues6.md)| Linux | Easy | Done ✅ |
 | [Blogger](Blogger.md)| Linux | Easy | On progress|
 | [Bashed](Bashed.md)| Linux | Easy | Done ✅ |
+| [Nibbles](Nibbles.md)| Linux | Easy | Done ✅ |
