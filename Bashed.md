@@ -16,7 +16,7 @@ Nmap done: 1 IP address (1 host up) scanned in 41.22 seconds
 ## Enemurating Port 80:
 
 The index page consists of blog of phpbash, where one can execute bash commands through the web interface. 
-Le'ts fuzz:
+Let's fuzz:
 
 ```bash
 ┌──(parallels㉿V35HR4J)-[~]
@@ -148,3 +148,6 @@ bash-4.3# cat /root/root.txt
 cat /root/root.txt
 33b16ed960c3e02c7b52bc7dd2cea7f4
 ```
+
+# Takeaways:
+- Sometimes all you need is to be able to understand the hints, the hints are there for a reason, the machine was pretty straight forward as there was already a web interface for executing bash commands.
