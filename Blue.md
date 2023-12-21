@@ -17,7 +17,7 @@ Nmap done: 1 IP address (1 host up) scanned in 25.56 seconds
 
 ## Enumerating Port 445:
 
-Let's NMAP do it thing:
+Let's let NMAP do it's thing:
 
 ```bash
 ┌──(parallels㉿V35HR4J)-[~/tjnull/Blue]
@@ -113,3 +113,6 @@ C:\Users\haris\Desktop>type user.txt
 C:\Users\Administrator\Desktop>type root.txt
 5ff3a6cc1568136c911ca02f3e95bde2
 ```
+
+# Takeaways:
+- Always check for SMB vulnerabilities.
