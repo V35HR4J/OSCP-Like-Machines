@@ -17,3 +17,4 @@ I will try to push atleast 2 solutions per day.
 | [Nibbles](Nibbles.md)| Linux | Easy | Done ✅ |
 | [Beep](Beep.md)| Linux | Easy | Done ✅ |
 | [Legacy](Legacy.md)| Windows | Easy | Done ✅ |
+| [Blue](Blue.md)| Windows | Easy | Done ✅ |
