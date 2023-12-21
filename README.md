@@ -15,3 +15,4 @@ I will try to push atleast 2 solutions per day.
 | [Blogger](Blogger.md)| Linux | Easy | On progress|
 | [Bashed](Bashed.md)| Linux | Easy | Done ✅ |
 | [Nibbles](Nibbles.md)| Linux | Easy | Done ✅ |
+| [Beep](Beep.md)| Linux | Easy | Done ✅ |
