@@ -18,3 +18,4 @@ I will try to push atleast 2 solutions per day.
 | [Beep](Beep.md)| Linux | Easy | Done ✅ |
 | [Legacy](Legacy.md)| Windows | Easy | Done ✅ |
 | [Blue](Blue.md)| Windows | Easy | Done ✅ |
+| [Broker](Broker.md)| Linux | Easy | Done ✅ |
