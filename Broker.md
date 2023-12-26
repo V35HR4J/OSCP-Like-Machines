@@ -180,7 +180,7 @@ http {
     }
 }
 
-activemq@broker:/tmp$ sudo /usr/sbin/nginx -c /tmp/hehe.conf & 
+activemq@broker:/tmp$ sudo /usr/sbin/nginx -c /tmp/root.conf & 
 
 ┌──(parallels㉿V35HR4J)-[~/tjnull/Broker/CVE-2023-46604]
 └─$ cat hehe.pub 
